@@ -1,0 +1,27 @@
+body{
+    background-color: rgb(193, 142, 97);
+    color: white;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    line-height: 1.6;
+        
+}
+ button{
+    background-color: rgb(255, 255, 255);
+    color: rgb(253, 156, 107);
+   padding: 32px 60px;
+   font-size: larger;
+   font-family: Verdana, Geneva, Tahoma, sans-serif;
+   border: 0cap;
+   border-radius: 16px;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+ }
+ 
+
+ h2 {
+    text-transform: uppercase;
+ }
+
+ h3 {
+    text-transform: uppercase;
+ }
